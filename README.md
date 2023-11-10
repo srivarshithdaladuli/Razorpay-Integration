@@ -48,7 +48,7 @@ Contributions are welcome! Feel free to fork the repository, make improvements, 
 
 **License:**
 
-This project is licensed under the [MIT License](link-to-license).
+This project is licensed under the [MIT License](https://github.com/srivarshithdaladuli/Razorpay-Integration/blob/master/LICENSE).
 
 ---
 
