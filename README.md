@@ -1,5 +1,8 @@
 Razorpay Payment Gateway Integration for Django
 
+![Sample Image](https://github.com/srivarshithdaladuli/Razorpay-Integration/blob/master/Razorpay_logo.svg)
+
+
 **Description:**
 
 This project demonstrates the integration of the Razorpay payment gateway with a Django web application. Razorpay is a popular payment gateway service that allows businesses to accept online payments seamlessly. In this project, we have created a Django web application that enables users to make secure online payments for products or services.
